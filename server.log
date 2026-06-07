@@ -1,0 +1,207 @@
+[2026-06-07 01:46:47] Server started
+[2026-06-07 01:46:59] Client connected: ('127.0.0.1', 30826)
+[2026-06-07 01:46:59] Alice joined room General
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A1
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A1
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A2
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A2
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A3
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A3
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A4
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A4
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A5
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A5
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A6
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A6
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A7
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A7
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A8
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A8
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A9
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A9
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A10
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A10
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A11
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A11
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A12
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A12
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A13
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A13
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A14
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A14
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A15
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A15
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A16
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A16
+[2026-06-07 01:46:59] Room=General, Sender=Alice, Message=A17
+[2026-06-07 01:46:59] Broadcast in General: [General] Alice: A17
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A18
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A18
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A19
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A19
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A20
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A20
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A21
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A21
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A22
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A22
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A23
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A23
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A24
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A24
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A25
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A25
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A26
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A26
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A27
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A27
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A28
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A28
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A29
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A29
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A30
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A30
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A31
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A31
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A32
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A32
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A33
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A33
+[2026-06-07 01:47:00] Room=General, Sender=Alice, Message=A34
+[2026-06-07 01:47:00] Broadcast in General: [General] Alice: A34
+[2026-06-07 01:47:10] Client connected: ('127.0.0.1', 30827)
+[2026-06-07 01:47:10] Bravo joined room General
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B1
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B1
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B2
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B2
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B3
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B3
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B4
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B4
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B5
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B5
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B6
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B6
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B7
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B7
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B8
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B8
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B9
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B9
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B10
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B10
+[2026-06-07 01:47:10] Room=General, Sender=Bravo, Message=B11
+[2026-06-07 01:47:10] Broadcast in General: [General] Bravo: B11
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B12
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B12
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B13
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B13
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B14
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B14
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B15
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B15
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B16
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B16
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B17
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B17
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B18
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B18
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B19
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B19
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B20
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B20
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B21
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B21
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B22
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B22
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B23
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B23
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B24
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B24
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B25
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B25
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B26
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B26
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B27
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B27
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B28
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B28
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B29
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B29
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B30
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B30
+[2026-06-07 01:47:11] Room=General, Sender=Bravo, Message=B31
+[2026-06-07 01:47:11] Broadcast in General: [General] Bravo: B31
+[2026-06-07 01:47:12] Room=General, Sender=Bravo, Message=B32
+[2026-06-07 01:47:12] Broadcast in General: [General] Bravo: B32
+[2026-06-07 01:47:12] Room=General, Sender=Bravo, Message=B33
+[2026-06-07 01:47:12] Broadcast in General: [General] Bravo: B33
+[2026-06-07 01:47:22] Client connected: ('127.0.0.1', 30828)
+[2026-06-07 01:47:22] Charlie joined room General
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C1
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C1
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C2
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C2
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C3
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C3
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C4
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C4
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C5
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C5
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C6
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C6
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C7
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C7
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C8
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C8
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C9
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C9
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C10
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C10
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C11
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C11
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C12
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C12
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C13
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C13
+[2026-06-07 01:47:22] Room=General, Sender=Charlie, Message=C14
+[2026-06-07 01:47:22] Broadcast in General: [General] Charlie: C14
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C15
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C15
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C16
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C16
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C17
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C17
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C18
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C18
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C19
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C19
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C20
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C20
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C21
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C21
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C22
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C22
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C23
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C23
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C24
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C24
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C25
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C25
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C26
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C26
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C27
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C27
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C28
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C28
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C29
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C29
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C30
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C30
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C31
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C31
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C32
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C32
+[2026-06-07 01:47:23] Room=General, Sender=Charlie, Message=C33
+[2026-06-07 01:47:23] Broadcast in General: [General] Charlie: C33
