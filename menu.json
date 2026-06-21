@@ -1,0 +1,58 @@
+[
+    {
+        "item_id": "S01",
+        "name": "Garlic Bread",
+        "category": "Starter",
+        "price": 4.50,
+        "prep_time_sec": 300
+    },
+    {
+        "item_id": "S02",
+        "name": "Tomato Soup",
+        "category": "Starter",
+        "price": 5.50,
+        "prep_time_sec": 240
+    },
+    {
+        "item_id": "M01",
+        "name": "Veg Burger",
+        "category": "Main",
+        "price": 8.99,
+        "prep_time_sec": 600
+    },
+    {
+        "item_id": "M02",
+        "name": "Margherita Pizza",
+        "category": "Main",
+        "price": 12.50,
+        "prep_time_sec": 900
+    },
+    {
+        "item_id": "D01",
+        "name": "Chocolate Cake",
+        "category": "Dessert",
+        "price": 4.99,
+        "prep_time_sec": 180
+    },
+    {
+        "item_id": "D02",
+        "name": "Ice Cream",
+        "category": "Dessert",
+        "price": 3.99,
+        "prep_time_sec": 120
+    },
+    {
+        "item_id": "DR01",
+        "name": "Coffee",
+        "category": "Drink",
+        "price": 2.50,
+        "prep_time_sec": 120
+    },
+    {
+        "item_id": "DR02",
+        "name": "Orange Juice",
+        "category": "Drink",
+        "price": 3.00,
+        "prep_time_sec": 60
+    }
+]
