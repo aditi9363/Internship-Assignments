@@ -1,0 +1,35 @@
+import subprocess
+
+print("Sorting the given words...\n")
+
+result = subprocess.run(
+    ['sort'],
+    input='banana\napple\ncherry\n',
+    capture_output=True,
+    text=True
+)
+
+print("Sorted Output:")
+print(result.stdout)
+
+print("Running a Windows Pipeline...\n")
+
+pipeline = subprocess.run(
+    'echo hello world | findstr hello',
+    shell=True,
+    capture_output=True,
+    text=True
+)
+
+print("Pipeline Output:")
+print(pipeline.stdout)
+
+#shell=True executes the command through the Windows command shell
+#If untrusted user input is included in the command string,
+#an attacker could execute unwanted commands(command injection).
+#Therefore, avoid using shell=True with untrusted input
+
+
+
+
+
